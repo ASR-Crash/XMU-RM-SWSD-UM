@@ -6,33 +6,19 @@
 
 ---
 
-### 战队信息
-- [团队介绍](TeamIntroduction.md)
-- [赛事介绍](CompetitionIntro.md)
-- [工作内容](WorkContent.md)
-- [联系方式](ContactDetails.md)
+### Overview
+- [Introduction](README.md)
+- [Hardware Support](Hardware-Support.md)
 
-### 宣传运营
-- [平台运营](PlatformOperation.md)
-- [宣传海报](PropagandaPoster.md)
-- [活动策划](EventsPlanning.md)
-- [年鉴记录](YearbookRecords.md)
+### Basic
+- [Software Install](Software-Install.md)
+- [Getting Started](Getting-Started.md)
+- [Motor Control](Motor-Control.md)
 
-### 合作交流
-
-- [招商单页](CommercialPage.md)
-- [战队周边](TeamSouvenir.md)
-- [合作公示](PartnerAnnouncement.md)
-- [友队交流](FriendsTeam.md)
-
-### 理论导入
-- 新闻传播
-- 视觉传达
-- 策划原理
-- 平面设计
+### FAQs
 
 ----
-###### 更新时间：2021.08.20
+###### Latest Updated ：2021.10.21
 ----
 
 <img src="logo\logo3.png" style="zoom: 25%;" />
