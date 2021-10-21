@@ -10,6 +10,7 @@ nav:
     - Getting Started: Getting-Started.md
     - Motor Control: Motor-Control.md
 - FAQs:
+    - How to Debug: How-to-Debug.md
 
     
 theme: readthedocs

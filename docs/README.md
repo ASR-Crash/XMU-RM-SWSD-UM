@@ -17,6 +17,8 @@
 
 ### FAQs
 
+- [How to Debug](How-to-Debug.md)
+
 ----
 ###### Latest Updated ：2021.10.21
 ----
