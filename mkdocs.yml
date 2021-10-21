@@ -1,9 +1,9 @@
-site_name: 厦门大学·RoboMaster·代码说明
+site_name: 厦门大学·RoboMaster·软件标准化
 site_favicon: favicon.ico
 site_url: 
 nav:
 - Overview:
-    - Introduction: README.md
+    - Introduction: Introduction.md
     - Hardware Support: Hardware-Support.md
 - Basic:
     - Software Install: Software-Install.md
