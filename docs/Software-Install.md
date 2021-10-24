@@ -1,4 +1,5 @@
-<center><font size=7 color=yellow>安装Visual GDB for visual studio 2019</font>
+<center><font size=7 color=yellow>安装Visual GDB for visual studio 2019</font></center>
+
 
 ---
 
@@ -102,7 +103,7 @@ VisualGDB提供了强大的调试功能，并且可以利用Visual Studio原本�
 
 ***
 
-<center><font size=5>祝大家操作顺利！</font>
+<center><font size=5>祝大家操作顺利！</font></center>
 
-<center><font size=1 color=red>如果安装过程中出现其他问题，请自行进行上网搜索，解决方案需要一点点摸索出来！顺便写进我们RCS经验库中</font>
+<center><font size=1 color=red>如果安装过程中出现其他问题，请自行进行上网搜索，解决方案需要一点点摸索出来！顺便写进我们RCS经验库中</font></center>
 
