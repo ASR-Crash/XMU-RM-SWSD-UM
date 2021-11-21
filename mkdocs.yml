@@ -9,6 +9,8 @@ nav:
     - Software Install: Software-Install.md
     - Getting Started: Getting-Started.md
     - Motor Control: Motor-Control.md
+- References:
+    - Motor Parameters: 电机参数.md
 - FAQs:
     - How to Debug: How-to-Debug.md
 
