@@ -24,7 +24,7 @@ enum motor_mode { SPD, POS, ACE };
 #define T 1.e-3f
 ```
 
-该部分为一些数值的预定义，包括一些ID的值枚举，ID代表着各个电机的标识符，具体数据见 [电机参数](../refs/电机参数.md)
+该部分为一些数值的预定义，包括一些ID的值枚举，ID代表着各个电机的标识符，具体数据见 [电机参数](Motor-Parameters.md)
 
 ## Motor类
 

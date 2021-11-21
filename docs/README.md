@@ -15,6 +15,9 @@
 - [Getting Started](Getting-Started.md)
 - [Motor Control](Motor-Control.md)
 
+### Reference
+- [Motor Parameters](Motor-Parameters.md)
+
 ### FAQs
 
 - [How to Debug](How-to-Debug.md)
