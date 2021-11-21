@@ -10,7 +10,7 @@ nav:
     - Getting Started: Getting-Started.md
     - Motor Control: Motor-Control.md
 - References:
-    - Motor Parameters: 电机参数.md
+    - Motor Parameters: Motor-Parameters.md
 - FAQs:
     - How to Debug: How-to-Debug.md
 
