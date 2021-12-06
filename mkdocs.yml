@@ -6,12 +6,13 @@ nav:
     - Introduction: Introduction.md
     - Hardware Support: Hardware-Support.md
 - Basic:
-    - Software Install: Software-Install.md
-    - Getting Started: Getting-Started.md
-    - Motor Control: Motor-Control.md
     - TIM: TIM-Use.md
     - USART: USART-Use.md
     - CAN: CAN-Use.md
+- Controls:
+    - Software Install: Software-Install.md
+    - Getting Started: Getting-Started.md
+    - Motor Control: Motor-Control.md
 - References:
     - Motor Parameters: Motor-Parameters.md
 - FAQs:
