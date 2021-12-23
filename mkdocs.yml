@@ -19,6 +19,6 @@ nav:
     - How to Debug: How-to-Debug.md
 
     
-theme: readthedocs
+theme: mkdocs
 site_author: ASR-Crash
 copyright: Copyright © 2021 ASR-Crash, Mike.Han, R.P.Su
