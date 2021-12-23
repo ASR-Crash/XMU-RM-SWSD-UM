@@ -1,7 +1,8 @@
 CAN通信是控制电机运动的重要通信方式之一，具体使用方法如下：
 
-1. can.h文件与can.cpp的使用
-    can .h
+# can.h文件与can.cpp的使用
+
+## can .h
 
 ```c++
 #pragma once
@@ -28,7 +29,7 @@ class CAN
 extern CAN can1, can2;
 ```
 
-can.cpp
+## can.cpp
 
 ```c++
 #include "can.h"
@@ -165,4 +166,4 @@ void HAL_CAN_RxCpltCallback(CAN_HandleTypeDef* hcan)
 
 ​    
 
-2. 将我们的项目文件添加如上两个文件，文件中包括CAN通信的收发方式，可以更方便我们使用CAN通信来进行电机代码的编写
+将我们的项目文件添加如上两个文件，文件中包括CAN通信的收发方式，可以更方便我们使用CAN通信来进行电机代码的编写

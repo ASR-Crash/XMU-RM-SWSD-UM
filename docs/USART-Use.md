@@ -1,7 +1,8 @@
 串口USART通信可以支持我们使用一些扩展设备，如陀螺仪、遥控器、裁判系统等等
 
-1. usart.h和usart.cpp文件的使用
-    usart.h
+# usart.h和usart.cpp文件的使用
+
+## usart.h
 
 ```c++
 #pragma once
@@ -52,7 +53,7 @@ class UART
 extern UART uart1,uart2, uart4, uart6;// , uart6, uart7;
 ```
 
-usart.cpp
+## usart.cpp
 
 ```c++
 #include "usart.h"
@@ -467,4 +468,4 @@ extern "C" void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
 
 ```
 
-2. 将我们的项目文件添加如上两个文件，文件中包括USART通信的收发方式，可以更方便我们使用USART通信来进行扩展模块代码的编写。
+将我们的项目文件添加如上两个文件，文件中包括USART通信的收发方式，可以更方便我们使用USART通信来进行扩展模块代码的编写。
