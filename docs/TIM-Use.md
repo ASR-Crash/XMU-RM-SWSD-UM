@@ -1,9 +1,10 @@
 定时器 (Timer) 最基本的功能就是定时了，比如定时发送 USART 数据、定时采集 AD 数据等等。 如果把定时器与 GPIO 结合起来使用的话可以实现非常丰富的功能，可以测量输入信号的脉冲宽 度，可以生产输出波形。定时器生产 PWM 控制电机状态是工业控制普遍方法，这方面知识非常 有必要深入了解。
 
 1. tim.h和tim.cpp文件的使用
+
     tim.h
 
-    ```c++
+    ```
     #pragma once
     #include "stm32f4xx_hal.h"
     #include "functional"
@@ -33,7 +34,7 @@
 
     tim.cpp
 
-    ```c++
+    ```
     #include "tim.h"
     #include "can.h"
     #include "IMU.h"
